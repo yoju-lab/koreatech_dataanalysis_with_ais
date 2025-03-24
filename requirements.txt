@@ -8,3 +8,8 @@ black
 pylint
 dotenv
 beautifulsoup4
+matplotlib
+seaborn
+tabulate
+scipy
+scikit-learn
